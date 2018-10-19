@@ -1,5 +1,11 @@
 package caasi.cipher;
 
+/**
+ * MonoAlphabeticCipher
+ * encrypts and decrypts Text given from the User.
+ * @author caasi
+ * @version 19-10-2018
+ */
 public class MonoAlphabeticCipher implements Cipher{
     private String secretAlphabet;
 
